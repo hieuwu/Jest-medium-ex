@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Homepage Test should render snapshot test for user 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "justifyContent": "center",
+      "paddingTop": 100,
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "paddingVertical": 10,
+      }
+    }
+  >
+    User
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontSize": 18,
+        "fontWeight": "bold",
+      }
+    }
+  >
+     Name: 
+    Danny
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontSize": 18,
+        "fontWeight": "bold",
+      }
+    }
+  >
+     Age: 
+    18
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontSize": 18,
+        "fontWeight": "bold",
+      }
+    }
+  >
+     Type: 
+    anonymous
+  </Text>
+  <Text
+    style={
+      Object {
+        "fontSize": 18,
+        "fontWeight": "bold",
+      }
+    }
+  >
+     Avatar
+  </Text>
+  <View />
+</View>
+`;
